@@ -70,3 +70,5 @@ async def on_member_leave(member):
         description = 'Until we meet again old friend.',
         color=discord.Color.red()
     )
+
+client.run('TOKEN')
