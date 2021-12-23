@@ -10,9 +10,9 @@ client = discord.Client(intents=intents)
 welcome =  lambda member: f"""
 Hey {member.name} welcome to our server! We hope you have a great stay here :) 
 Make sure to check out some important channels :-
-• #📜︱code-of-conduct - Rules of our server.
-• #📿︱roles - Get your roles here.
-• #💬︱main-quad - Talk with new peoples and make new freinds.
+• <#919892855412109333> - Rules of our server.
+• <#919893969704472596> - Get your roles here.
+• <#917659674592026627> - Talk with new peoples and make new freinds.
 • Fill out the form if you want to join our team - https://airtable.com/shrKny0ewLRxFvidc
 
 """
